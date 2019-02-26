@@ -1,4 +1,4 @@
-# studious-giggle
+# Patient-Med-History-et-Microarray
 Included in this repository is the R code I used to clean up and pre-process:
 1. a microarray data file and a 
 2. patient sample annotation file
